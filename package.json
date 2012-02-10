@@ -1,0 +1,18 @@
+{
+  "author": "Einar Otto Stangvik <einaros@gmail.com> (2x.io)",
+  "name": "sse-example",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/einaros/sse-example.git"
+  },
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+    "sse.js": "https://github.com/einaros/sse.js/tarball/master",
+    "eventsource-node": "https://github.com/aslakhellesoy/eventsource-node/tarball/master"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
