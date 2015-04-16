@@ -10,8 +10,8 @@
     "node": "~0.6.8"
   },
   "dependencies": {
-    "sse.js": "https://github.com/einaros/sse.js/tarball/master",
-    "eventsource-node": "https://github.com/aslakhellesoy/eventsource-node/tarball/master"
+    "sse": "https://github.com/einaros/sse.js/tarball/master",
+    "eventsource": "https://github.com/aslakhellesoy/eventsource-node/tarball/master"
   },
   "devDependencies": {},
   "optionalDependencies": {}
